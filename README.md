@@ -1,2 +1,1 @@
-My first readme
-coding is awesome 
+my first readme
